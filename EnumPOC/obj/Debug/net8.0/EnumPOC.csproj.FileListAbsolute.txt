@@ -1,0 +1,14 @@
+C:\Users\Harshvardhan Gupta\source\repos\EnumPOC\bin\Debug\net8.0\EnumPOC.exe
+C:\Users\Harshvardhan Gupta\source\repos\EnumPOC\bin\Debug\net8.0\EnumPOC.deps.json
+C:\Users\Harshvardhan Gupta\source\repos\EnumPOC\bin\Debug\net8.0\EnumPOC.runtimeconfig.json
+C:\Users\Harshvardhan Gupta\source\repos\EnumPOC\bin\Debug\net8.0\EnumPOC.dll
+C:\Users\Harshvardhan Gupta\source\repos\EnumPOC\bin\Debug\net8.0\EnumPOC.pdb
+C:\Users\Harshvardhan Gupta\source\repos\EnumPOC\obj\Debug\net8.0\EnumPOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshvardhan Gupta\source\repos\EnumPOC\obj\Debug\net8.0\EnumPOC.AssemblyInfoInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\EnumPOC\obj\Debug\net8.0\EnumPOC.AssemblyInfo.cs
+C:\Users\Harshvardhan Gupta\source\repos\EnumPOC\obj\Debug\net8.0\EnumPOC.csproj.CoreCompileInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\EnumPOC\obj\Debug\net8.0\EnumPOC.dll
+C:\Users\Harshvardhan Gupta\source\repos\EnumPOC\obj\Debug\net8.0\refint\EnumPOC.dll
+C:\Users\Harshvardhan Gupta\source\repos\EnumPOC\obj\Debug\net8.0\EnumPOC.pdb
+C:\Users\Harshvardhan Gupta\source\repos\EnumPOC\obj\Debug\net8.0\EnumPOC.genruntimeconfig.cache
+C:\Users\Harshvardhan Gupta\source\repos\EnumPOC\obj\Debug\net8.0\ref\EnumPOC.dll
